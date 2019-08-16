@@ -1,0 +1,36 @@
+h1 {
+ background-color: blue;
+ font-family: fantasy;
+color: black;
+}
+
+p {
+    background-color:blue;
+    font-family: cursive;
+    color: black;   
+}
+
+.jumbotron{
+    background-color:rgb(206, 29, 29);
+}
+.form-group{
+    background-color: rgb(206, 29, 29)
+}
+.container{
+    color: darkblue;
+}
+.mt-5{
+    color: black;
+    background-color: rgb(206, 29, 29);
+    font-weight: bolder
+}
+.btn{
+    background-color: rgb(206, 29, 29);
+    color: black;
+    font-weight: bolder
+}
+.table{
+    background-color: rgb(206, 29, 29);
+    font-weight: bolder;
+
+}
